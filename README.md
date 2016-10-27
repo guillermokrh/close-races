@@ -11,6 +11,8 @@ Ideas for new features:
 * Do design tweaks--make sure that the pictures are exactly the same size (some are off right now), paragraphs are centered.
 * Create a way to sort the candidates based on state, polling position, underrepresented minorities and genders in government.
 
+Contact me if you'd like to get collaborator permissions for the project, I'd be more than happy for the help!
+
 ### Website Template Credits
 I am using the following website template for CloseRaces.com.  I would not have been able to get this site up and running so quickly without this awesome template!
 [Heroic Features](http://startbootstrap.com/template-overviews/heroic-features/) is a multipurpose HTML template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
